@@ -1,6 +1,6 @@
 # Pong Game iOS
 
-
+![pong](https://user-images.githubusercontent.com/68731924/131140548-6d0c23ac-2d86-4cc3-8ac3-871e5bde965d.png)
 
 ## What is Pong?
 
