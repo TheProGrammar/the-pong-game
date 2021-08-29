@@ -1,4 +1,4 @@
-# Pong Game iOS
+# Pong Game iOS SpriteKit
 
 ![pong3](https://user-images.githubusercontent.com/68731924/131141675-56bb0aad-4ee7-4ba8-a8df-9d576e6ab9b2.png)
 
